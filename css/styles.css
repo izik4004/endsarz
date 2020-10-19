@@ -1,5 +1,10 @@
 
-
+.body {
+position: relative;
+width: 1440px;
+height: 7507px;
+background: #FFFFFF
+}
 
 
 header .logo-text {
@@ -135,14 +140,211 @@ width: 1196px;
 height: 303.54px;
 left: 149px;
 top: 702px;
-color: white;
+background-color: white;
 font-family: Proxima Nova;
 font-style: normal;
 font-weight: bold;
 font-size: 229.059px;
 line-height: 303px;
-border-color: 0.864787px solid #005A00;
+
 /* identical to box height */
+
+}
+
+.endsars2 {
+    position: absolute;
+width: 1225px;
+height: 351.54px;
+left: 95px;
+top: 1780px;
+}
+
+.endsars3 {
+position: absolute;
+width: 1225px;
+height: 351.54px;
+left: 105px;
+top: 2901px;
+
+}
+
+.endsars4 {
+    
+position: absolute;
+width: 1225px;
+height: 351.54px;
+left: 107px;
+top: 4200px;
+
 
 
 }
+.section1 {
+    position: absolute;
+    width: 628px;
+    height: 707px;
+    left: 0px;
+    top: 1043px;
+
+}
+
+.section2 {
+position: absolute;
+width: 828px;
+height: 707px;
+left: 912px;
+top: 2163px;
+right: 0px;
+
+
+}
+.what {
+position: absolute;
+width: 730px;
+height: 505px;
+left: 660px;
+top: 1120px;
+text-align: justify;
+padding: 30px 50px; 
+background: #F2F2F2;
+}
+
+.what1 {
+    position: absolute;
+width: 760px;
+height: 505px;
+left: 170px;
+top: 2240px;
+text-align: left;
+padding: 30px 50px; 
+
+background: #F2F2F2;
+}
+
+.heading {
+position: absolute;
+width: 574.86px;
+height: 156px;
+left: 709.8px;
+top: 950px;
+text-align: center;
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 78px;
+
+color: #333333;
+}
+
+.heading1 {
+    position: absolute;
+width: 583px;
+height: 156px;
+left: 170px;
+top: 2050px;
+text-align: center;
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 78px;
+
+color: #333333;
+
+}
+
+.heading3{
+    position: absolute;
+    width: 475px;
+    height: 78px;
+    left: 480px;
+    top: 3283px;
+    
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 78px;
+    
+    /* identical to box height */
+    text-align: center;
+    
+    color: #333333;
+
+}
+
+.heading4 {
+    position: absolute;
+width: 839px;
+height: 78px;
+left: 283px;
+top: 4507px;
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 78px;
+
+/* identical to box height */
+text-align: center;
+
+color: #333333;
+
+}
+.five {
+    position: absolute;
+width: 144px;
+height: 58px;
+left: 646px;
+top: 3371px;
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #B51717;
+
+
+}
+
+.card {
+    position: absolute;
+    width: 340px;
+    height: 280px;
+    color: #333333;
+    left: 30px;
+    top: 3350px;
+    text-align: center;
+    background-color: #F2F2F2;
+    font-weight: bold;
+    
+    
+  }
+
+  .card1 {
+    position: absolute;
+    width: 340px;
+    height: 320px;
+    left: 50px;
+    color: #333333;
+    top: 3700px;
+    text-align: center;
+    background-color: #F2F2F2;
+    font-weight: bold;
+  }
+
+  .card3 {
+    position: absolute;
+    width: 366px;
+    height: 608px;
+    left: 118px;
+    top: 4650px;
+    
+    
+  }
